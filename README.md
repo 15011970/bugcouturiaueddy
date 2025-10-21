@@ -7,4 +7,4 @@ Projet initié par Eddy Couturiau, octobre 2025.
 
 📄 [Voir les preuves](preuve.md)  
 🗣️ [Lire la transcription partielle](transcriptions.md)  
-📘 [Télécharger le document Word complet](etude2k.couturio.doc)
+
