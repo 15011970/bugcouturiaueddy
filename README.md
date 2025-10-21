@@ -6,6 +6,5 @@ Projet initié par Eddy Couturiau, octobre 2025.
 ---
 📄 [Voir les preuves](preuve.md)  
 🗣️ [Lire la transcription partielle](transcriptions.md)  
-📘 [Télécharger le document Word complet](Le_Bug_Couturiau_Etude_de_cas_Eddy_Couturiau.docx
-?raw=1)
+📘 [Télécharger le document Word complet](Le_Bug_Couturiau_Etude_de_cas_Eddy_Couturiau.docx?raw=1)
 
